@@ -3,3 +3,7 @@
 # Nombre estudiante
 
 Sofía Vits Contreras
+
+# Objetivo
+
+Familiarizarse con el manejo de versiones a través de Git.
